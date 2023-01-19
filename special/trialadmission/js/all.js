@@ -141,7 +141,7 @@ $(document).ready(function() {
 		}
 	});
 	$('.to-sec02.off').bind('touchstart click', function (event) {
-		window.location.href = "http://disneytwistedwonderland.com/";
+		window.location.href = "../../../index.htm"/*tpa=http://disneytwistedwonderland.com/*/;
 	});
 
 

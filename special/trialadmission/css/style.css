@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy&display=swap");
+@import url("../../../../fonts.googleapis.com/css2-family=Sorts+Mill+Goudy&display=swap.css")/*tpa=https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy&display=swap*/;
 /*
 html5doctor.com Reset Stylesheet
 v1.6.1
@@ -229,12 +229,12 @@ input, select {
 
 .pj_loading_mirror .fream {
   background-repeat: no-repeat;
-  background-image: url(../img/loading/loading.png);
+  background-image: url(../img/loading/loading.png)/*tpa=https://disneytwistedwonderland.com/special/trialadmission/img/loading/loading.png*/;
 }
 
 .pj_loading_mirror .view {
   background-repeat: no-repeat;
-  background-image: url(../img/loading/loading_def.png);
+  background-image: url(../img/loading/loading_def.png)/*tpa=https://disneytwistedwonderland.com/special/trialadmission/img/loading/loading_def.png*/;
   opacity: 0;
   -webkit-animation: loading 2.5s ease 0s infinite normal forwards;
   animation: loading 2.5s ease 0s infinite normal forwards;
@@ -261,10 +261,10 @@ input, select {
     background-size: 27.083333333333332vw 38.28125vw;
   }
   .pj_loading_mirror .fream {
-    background-image: url(../img/loading/loading@sp.png);
+    background-image: url(../img/loading/loading@sp.png)/*tpa=https://disneytwistedwonderland.com/special/trialadmission/img/loading/loading@sp.png*/;
   }
   .pj_loading_mirror .view {
-    background-image: url(../img/loading/loading_def@sp.png);
+    background-image: url(../img/loading/loading_def@sp.png)/*tpa=https://disneytwistedwonderland.com/special/trialadmission/img/loading/loading_def@sp.png*/;
   }
   .pj_loading_mirror .text {
     margin-top: 10.416666666666668vw;
@@ -451,7 +451,7 @@ footer {
 }
 
 #sec-violet01 {
-  background-image: url(../img/bg01.jpg);
+  background-image: url(../img/bg01.jpg)/*tpa=https://disneytwistedwonderland.com/special/trialadmission/img/bg01.jpg*/;
   background-size: 100% 100%;
   background-position: center center;
   padding-top: 60px;
